@@ -4,9 +4,9 @@
 ! Homepage: https://github.com/LordBadmintonofYorkshire/Overlay-Blocker
 
 !--- Blocklist
-chrome.google.com##.webstore-xh
 cwtv.com##P
 eeweb.com###timer
+chrome.google.com##.webstore-xh
 history.com###int-overlay
 history.com###cboxLoadedContent
 history.com###cboxContent
