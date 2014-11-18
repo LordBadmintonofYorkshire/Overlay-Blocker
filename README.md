@@ -1,7 +1,7 @@
 Overlay-Blocker
 ===============
 
-Adblock filter for obtrusive overlay elements and various other annoying elements on websites.
+Adblock filter for obtrusive overlay (pop up) elements and various other annoying elements on websites.
 
 The main purpose of this filter is blocking overlay elements that pop up when websites want you to sign in / register, choose a region (even though you clearly entered the international site with the intention of visiting the international site), answer a survey, subscribe to something, etc.
 The secondary purpose is to block other slightly less annoying elements that doesn't pop up such as privacy notices' boxes.
