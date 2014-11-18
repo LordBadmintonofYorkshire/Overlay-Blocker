@@ -1,4 +1,3 @@
-[Adblock Plus 1.1]
 ! Title: Overlay Blocker
 ! Last modified: 18 November 2014
 ! Expires: 7 days (update frequency)
