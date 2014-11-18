@@ -1,4 +1,4 @@
 Overlay-Blocker
 ===============
 
-Blocklist for obtrusive overlay elements on websites.
+AdBlock filter for obtrusive overlay elements and other various annoying elements on websites.
