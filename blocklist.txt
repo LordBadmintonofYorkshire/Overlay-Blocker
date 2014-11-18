@@ -4,6 +4,7 @@
 ! Homepage: https://github.com/LordBadmintonofYorkshire/Overlay-Blocker
 
 !--- Blocklist
+collectively.org##.newsletter-wrapper.shown
 cwtv.com##P
 eeweb.com###timer
 chrome.google.com##.webstore-xh
