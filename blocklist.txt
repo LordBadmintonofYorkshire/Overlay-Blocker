@@ -13,8 +13,6 @@ history.com###cboxContent
 history.com###cboxWrapper
 history.com###colorbox
 history.com###cboxOverlay
-facebook.com##.pop_container_advanced
-facebook.com##.generic_dialog.pop_dialog.generic_dialog_modal
 facebook.com##.pam._3-95.uiBoxRed
 facebook.com###mobile_mirror_banner
 pinterest.com##.UnauthBanner.Module
