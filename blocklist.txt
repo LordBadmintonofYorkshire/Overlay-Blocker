@@ -4,6 +4,9 @@
 ! Homepage: https://github.com/LordBadmintonofYorkshire/Overlay-Blocker
 
 !--- Blocklist
+web.archive.org###visas_style_div
+web.archive.org##.bModal.__bPopup1
+web.archive.org##DIV[style="background-color:#FFFFFF; width:468px; height:95px; border-color:#E1E1E1; border-width:1px; text-align:center;  border-style:solid;"]
 collectively.org##.newsletter-wrapper.shown
 cwtv.com##P
 eeweb.com###timer
@@ -18,6 +21,7 @@ facebook.com##.pam._3-95.uiBoxRed
 facebook.com###mobile_mirror_banner
 nintendo.com##.fsrFloatingMid
 nintendo.com###fsrOverlay
+oocities.org###footer
 pinterest.com##.UnauthBanner.Module
 pixiv.net##.introduction-modal
 play.com##.global-banner.active
