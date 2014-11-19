@@ -46,5 +46,6 @@ twitter.com###signup-dialog-dialog
 twitter.com##.close-modal-background-target
 twitter.com###signup-dialog
 twitter.com##.modal-overlay
+wordpress.com###bitsubscribe
 youtube.com###inproduct-guide-modal
 youtube.com###yt-lang-alert-container
