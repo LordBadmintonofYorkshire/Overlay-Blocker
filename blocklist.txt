@@ -23,6 +23,9 @@ hlntv.com###story-slider
 hlntv.com###tos_pp_popup_container
 nintendo.com##.fsrFloatingMid
 nintendo.com###fsrOverlay
+nytimes.com###anchor-header
+nytimes.com###anchor-ad
+nytimes.com###anchor-container
 oocities.org###footer
 pinterest.com##.UnauthBanner.Module
 pixiv.net##.introduction-modal
