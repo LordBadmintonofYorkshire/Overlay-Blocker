@@ -10,6 +10,8 @@ web.archive.org##DIV[style="background-color:#FFFFFF; width:468px; height:95px; 
 collectively.org##.newsletter-wrapper.shown
 cwtv.com##P
 eeweb.com###timer
+facebook.com##.pam._3-95.uiBoxRed
+facebook.com###mobile_mirror_banner
 chrome.google.com##.webstore-xh
 history.com###int-overlay
 history.com###cboxLoadedContent
@@ -17,8 +19,7 @@ history.com###cboxContent
 history.com###cboxWrapper
 history.com###colorbox
 history.com###cboxOverlay
-facebook.com##.pam._3-95.uiBoxRed
-facebook.com###mobile_mirror_banner
+hlntv.com###tos_pp_popup_container
 nintendo.com##.fsrFloatingMid
 nintendo.com###fsrOverlay
 oocities.org###footer
