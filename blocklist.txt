@@ -19,6 +19,7 @@ history.com###cboxContent
 history.com###cboxWrapper
 history.com###colorbox
 history.com###cboxOverlay
+hlntv.com###story-slider
 hlntv.com###tos_pp_popup_container
 nintendo.com##.fsrFloatingMid
 nintendo.com###fsrOverlay
