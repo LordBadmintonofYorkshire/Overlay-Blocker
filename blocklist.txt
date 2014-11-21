@@ -36,6 +36,7 @@ psdisasters.com##.fancybox-skin
 psdisasters.com###fancybox-overlay
 rakuten.co.jp###dipPopUpBox
 rakuten.co.jp###dipPopUpBoxMask
+assets.tumblr.com##.version_follow_nag
 tumblr.com##.register_prompt.windowed-slide.windowed
 tv.nu###top_banner
 tv.nu##IMG[src="/_graphics/annons_hor_728.gif"]
