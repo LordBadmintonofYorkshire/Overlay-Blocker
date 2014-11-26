@@ -27,7 +27,6 @@ nintendo.com###fsrOverlay
 nytimes.com###anchor-header
 nytimes.com###anchor-ad
 nytimes.com###anchor-container
-oocities.org###footer
 pinterest.com##.UnauthBanner.Module
 pixiv.net##.introduction-modal
 play.com##.global-banner.active
