@@ -13,7 +13,7 @@ eeweb.com###slidein_promo
 eeweb.com##.overlay
 facebook.com##.pam._3-95.uiBoxRed
 facebook.com###mobile_mirror_banner
-chrome.google.com##.webstore-xh
+chrome.google.com##.webstore-zh
 history.com###int-overlay
 history.com###cboxLoadedContent
 history.com###cboxContent
