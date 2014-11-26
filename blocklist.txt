@@ -1,5 +1,5 @@
 ! Title: Overlay Blocker
-! Last modified: 21 November 2014
+! Last modified: 26 November 2014
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/LordBadmintonofYorkshire/Overlay-Blocker
 
@@ -9,7 +9,8 @@ web.archive.org##.bModal.__bPopup1
 web.archive.org##DIV[style="background-color:#FFFFFF; width:468px; height:95px; border-color:#E1E1E1; border-width:1px; text-align:center;  border-style:solid;"]
 collectively.org##.newsletter-wrapper.shown
 cwtv.com##P
-eeweb.com###timer
+eeweb.com###slidein_promo
+eeweb.com##.overlay
 facebook.com##.pam._3-95.uiBoxRed
 facebook.com###mobile_mirror_banner
 chrome.google.com##.webstore-xh
