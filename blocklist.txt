@@ -24,6 +24,8 @@ hlntv.com###story-slider
 hlntv.com###tos_pp_popup_container
 nintendo.com##.fsrFloatingMid
 nintendo.com###fsrOverlay
+moviefanatic.com###newsletter_modal
+moviefanatic.com##.modal-backdrop.fade.in
 nytimes.com###anchor-header
 nytimes.com###anchor-ad
 nytimes.com###anchor-container
