@@ -42,13 +42,6 @@ assets.tumblr.com##.version_follow_nag
 tumblr.com##.register_prompt.windowed-slide.windowed
 tv.nu###top_banner
 tv.nu##IMG[src="/_graphics/annons_hor_728.gif"]
-twitter.com##.SignupDialog-body.modal-body
-twitter.com##.modal-header
-twitter.com##.SignupDialog-footer.modal-footer.u-textCenter
-twitter.com###signup-dialog-dialog
-twitter.com##.close-modal-background-target
-twitter.com###signup-dialog
-twitter.com##.modal-overlay
 weheartit.com##.close
 weheartit.com##.intercept_body
 weheartit.com##.img_header.samla
