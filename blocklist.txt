@@ -1,5 +1,5 @@
 ! Title: Overlay Blocker
-! Last modified: 28 December 2014
+! Last modified: 31 December 2014
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/LordBadmintonofYorkshire/Overlay-Blocker
 
