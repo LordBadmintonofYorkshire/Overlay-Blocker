@@ -1,5 +1,5 @@
 ! Title: Overlay Blocker
-! Last modified: 31 December 2014
+! Last modified: 12 January 2015
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/LordBadmintonofYorkshire/Overlay-Blocker
 
@@ -36,6 +36,8 @@ politico.com##DIV[style="background-image: url(\"data:image/png;base64,iVBORw0KG
 popmatters.com##.SpacerDiv.Spacer10px
 psdisasters.com##.fancybox-skin
 psdisasters.com###fancybox-overlay
+quora.com##.modal_signup_background
+quora.com##.dialog_wrapper
 rakuten.co.jp###dipPopUpBoxMask
 rgj.com##.util-bar-flyout.util-bar-flyout-firefly.open
 assets.tumblr.com##.version_follow_nag
