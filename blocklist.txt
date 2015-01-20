@@ -1,5 +1,5 @@
 ! Title: Overlay Blocker
-! Last modified: 12 January 2015
+! Last modified: 20 January 2015
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/LordBadmintonofYorkshire/Overlay-Blocker
 
@@ -22,6 +22,7 @@ history.com###colorbox
 history.com###cboxOverlay
 hlntv.com###story-slider
 hlntv.com###tos_pp_popup_container
+huuto.net##.huuto-plus-promo.alert.text-center
 nintendo.com##.fsrFloatingMid
 nintendo.com###fsrOverlay
 moviefanatic.com###newsletter_modal
