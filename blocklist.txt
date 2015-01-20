@@ -51,3 +51,5 @@ weheartit.com##.img_header.samla
 wordpress.com###bitsubscribe
 youtube.com###inproduct-guide-modal
 youtube.com###yt-lang-aler-tp
+youtube.com###yt-dialog-bg
+youtube.com##.yt-dialog-base
