@@ -1,5 +1,5 @@
 ! Title: Overlay Blocker
-! Last modified: 21 January 2015
+! Last modified: 5 July 2017
 ! Expires: 7 days (update frequency)
 ! Homepage: https://github.com/LordBadmintonofYorkshire/Overlay-Blocker
 
@@ -39,7 +39,11 @@ psdisasters.com##.fancybox-skin
 psdisasters.com###fancybox-overlay
 quora.com##.modal_signup_background
 quora.com##.dialog_wrapper
+quora.com###page_wrapper .ViewInAppLink
+quora.com###page_wrapper .OpenInAppBanner
 rakuten.co.jp###dipPopUpBoxMask
+reddit.com###container .TransparentOverlay__overlay
+reddit.com##.DualPartInterstitialFooter__content
 rgj.com##.util-bar-flyout.util-bar-flyout-firefly.open
 assets.tumblr.com##.version_follow_nag
 tumblr.com##.register_prompt.windowed-slide.windowed
